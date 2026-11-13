@@ -1,0 +1,7 @@
+rep,signal,stage,phase,time_ms,voltage_V
+1,square,before,0,3073,10.89739990234375
+1,square,after,2,12154,10.89739990234375
+2,sawtooth,before,0,15198,10.884442329406738
+2,sawtooth,after,2,24291,10.884442329406738
+3,triangle,before,0,27321,10.89739990234375
+3,triangle,after,2,36407,10.884442329406738
